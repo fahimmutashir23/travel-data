@@ -1,0 +1,528 @@
+[
+    {
+      "tourId": 1,
+      "name": "Adventure in the Alps",
+      "description": "Embark on a gastronomic journey through the culinary heart of France. Indulge in wine tastings, cooking classes, and savor exquisite French cuisine in charming villages and renowned vineyards.",
+      "destination": "Switzerland",
+      "image": ["https://i.postimg.cc/Nf209Z6K/water-3161063-1280.jpg", ""],
+      "duration": 7,
+      "price": 2500,
+      "activities": ["Hiking", "Skiing", "Mountain Biking"],
+      "accommodation": {
+        "type": "Luxury Hotel",
+        "nights": 6
+      },
+      "included": ["Guided tours", "Meals", "Transportation"],
+      "departureDate": "2024-03-01",
+      "maxParticipants": 15
+    },
+    {
+      "tourId": 2,
+      "name": "Tropical Paradise Retreat",
+      "description": "Experience the magic of Santorini on this dreamy escape. Enjoy breathtaking sunsets, explore charming villages, and relax in luxury accommodations overlooking the azure waters of the Aegean Sea.",
+      "destination": "Maldives",
+      "image": ["https://i.postimg.cc/zXQ0pHHd/beach-3226488-1280.jpg", ""],
+      "duration": 10,
+      "price": 4000,
+      "activities": ["Snorkeling", "Scuba Diving", "Beach Relaxation"],
+      "accommodation": {
+        "type": "Overwater Bungalow",
+        "nights": 9
+      },
+      "included": ["Airport Transfers", "All-Inclusive Meals"],
+      "departureDate": "2024-05-15",
+      "maxParticipants": 20
+    },
+    {
+      "tourId": 3,
+      "name": "Cultural Odyssey in Kyoto",
+      "description": "Embark on an adventure deep into the heart of the Amazon Rainforest. Trek through the jungle, cruise along rivers, and connect with indigenous communities. Experience the wonders of the world's largest rainforest.",
+      "destination": "Japan",
+      "image": ["https://i.postimg.cc/Kzb9BX3x/kimono-1822520-1280.jpg", ""],
+      "duration": 8,
+      "price": 3000,
+      "activities": ["Temples Visits", "Tea Ceremonies", "Traditional Arts"],
+      "accommodation": {
+        "type": "Ryokan",
+        "nights": 7
+      },
+      "included": ["Guided Cultural Tours", "Local Cuisine"],
+      "departureDate": "2024-04-10",
+      "maxParticipants": 12
+    },
+    {
+      "tourId": 4,
+      "name": "Roman Heritage Tour",
+      "description": "Immerse yourself in the rich cultural heritage of Kyoto, Japan. Explore ancient temples, participate in traditional tea ceremonies, and witness captivating performances of traditional arts in this enchanting cultural journey.",
+      "destination": "Italy",
+      "image": ["https://i.postimg.cc/8z1WzsLp/roman-heritage.jpg"],
+      "duration": 7,
+      "price": 3200,
+      "activities": [
+        "Visit to Ancient Ruins",
+        "Roman Forum Exploration",
+        "Vatican City Tour"
+      ],
+      "accommodation": {
+        "type": "Historic Hotel",
+        "nights": 6
+      },
+      "included": ["Guided Historical Tours", "Authentic Italian Meals"],
+      "departureDate": "2024-09-01",
+      "maxParticipants": 10
+    },
+    {
+      "tourId": 5,
+      "name": "Bali Bliss",
+      "description": "Embark on an unforgettable safari adventure in the heart of Kenya's wildlife-rich landscapes. Experience the thrill of game drives, interact with the Maasai community, and soar above the savannah in a hot air balloon.",
+      "destination": "Indonesia",
+      "image": ["https://i.postimg.cc/wvtDYPLD/bali-Indonesia.jpg"],
+      "duration": 12,
+      "price": 5000,
+      "activities": ["Beach Relaxation", "Scuba Diving", "Cultural Performances"],
+      "accommodation": {
+        "type": "Luxury Resort",
+        "nights": 11
+      },
+      "included": ["Private Beach Excursions", "Traditional Balinese Spa"],
+      "departureDate": "2024-07-20",
+      "maxParticipants": 20
+    },
+    {
+      "tourId": 6,
+      "name": "Kenyan Safari Expedition",
+      "destination": "Kenya",
+      "description": "Embark on an unforgettable safari adventure in the heart of Kenya's wildlife-rich landscapes. Experience the thrill of game drives, interact with the Maasai community, and soar above the savannah in a hot air balloon.",
+      "image": ["https://i.postimg.cc/zDgTdsJr/kenya.jpg"],
+      "duration": 12,
+      "price": 5500,
+      "activities": [
+        "Game Drives",
+        "Maasai Village Visit",
+        "Hot Air Balloon Safari"
+      ],
+      "accommodation": { "type": "Luxury Safari Lodge", "nights": 11 },
+      "included": ["Guided Safari Tours", "Traditional African Cuisine"],
+      "departureDate": "2024-08-15",
+      "maxParticipants": 15
+    },
+    {
+      "tourId": 7,
+      "name": "Cultural Odyssey in Kyoto",
+      "destination": "Japan",
+      "description": "Immerse yourself in the rich cultural heritage of Kyoto, Japan. Explore ancient temples, participate in traditional tea ceremonies, and witness captivating performances of traditional arts in this enchanting cultural journey.",
+      "image": ["https://i.postimg.cc/5yLv6CP0/japan.jpg"],
+      "duration": 8,
+      "price": 4000,
+      "activities": ["Temples Visits", "Tea Ceremonies", "Traditional Arts"],
+      "accommodation": { "type": "Ryokan", "nights": 7 },
+      "included": ["Guided Cultural Tours", "Local Cuisine"],
+      "departureDate": "2024-05-10",
+      "maxParticipants": 12
+    },
+    {
+      "tourId": 8,
+      "name": "Machu Picchu Mystique",
+      "destination": "Peru",
+      "description": "Embark on a mystical journey to Machu Picchu, exploring the breathtaking Inca Trail, historical ruins, and engaging in cultural workshops. Experience the wonders of Peru in this unforgettable expedition.",
+      "image": ["https://i.postimg.cc/y8Bh3LCz/macupiccu.jpg"],
+      "duration": 9,
+      "price": 4700,
+      "activities": [
+        "Inca Trail Hike",
+        "Historical Site Tours",
+        "Cultural Workshops"
+      ],
+      "accommodation": { "type": "Andean Lodge", "nights": 8 },
+      "included": ["Expert Guided Tours", "Peruvian Gastronomy Experience"],
+      "departureDate": "2024-07-01",
+      "maxParticipants": 14
+    },
+    {
+      "tourId": 9,
+      "name": "Maldivian Bliss",
+      "destination": "Maldives",
+      "description": "Escape to a tropical paradise in the Maldives. Indulge in diving excursions, stay in overwater villas, and experience the serenity of private island tours. A blissful journey awaits in the turquoise waters of the Indian Ocean.",
+      "image": ["https://i.postimg.cc/QN9J2BJv/maldives.jpg"],
+      "duration": 10,
+      "price": 6000,
+      "activities": [
+        "Diving Excursions",
+        "Water Bungalow Stay",
+        "Sunset Cruises"
+      ],
+      "accommodation": { "type": "Overwater Villa", "nights": 9 },
+      "included": ["Private Island Tours", "Gourmet Dining"],
+      "departureDate": "2024-09-10",
+      "maxParticipants": 10
+    },
+    {
+      "tourId": 10,
+      "name": "European Elegance",
+      "destination": "Multiple Countries",
+      "description": "Embark on a classic European tour, exploring the charm of iconic cities. Enjoy city tours, cultural events, and fine dining in luxurious hotels across the continent. An elegant journey through the heart of Europe awaits.",
+      "image": ["https://i.postimg.cc/tJxdWfg9/europe.jpg"],
+      "duration": 15,
+      "price": 8000,
+      "activities": ["City Tours", "Cultural Events", "Fine Dining"],
+      "accommodation": { "type": "Luxury Hotels", "nights": 14 },
+      "included": ["Private Guided Excursions", "Culinary Experiences"],
+      "departureDate": "2024-06-01",
+      "maxParticipants": 20
+    },
+    {
+      "tourId": 11,
+      "name": "Amazon Adventure",
+      "destination": "Brazil",
+      "description": "Embark on an adventure deep into the heart of the Amazon Rainforest. Trek through the jungle, cruise along rivers, and connect with indigenous communities. Experience the wonders of the world's largest rainforest.",
+      "image": ["https://i.postimg.cc/fbzvpB8v/amazon.jpg"],
+      "duration": 14,
+      "price": 5500,
+      "activities": [
+        "Jungle Trekking",
+        "River Cruises",
+        "Indigenous Community Visits"
+      ],
+      "accommodation": { "type": "Eco-Lodge", "nights": 13 },
+      "included": ["Guided Rainforest Tours", "Local Cuisine"],
+      "departureDate": "2024-08-20",
+      "maxParticipants": 16
+    },
+    {
+      "tourId": 12,
+      "name": "Icelandic Wonders",
+      "destination": "Iceland",
+      "description": "Explore the natural wonders of Iceland, from glacier hiking to watching the Northern Lights. Relax in geothermal spas and savor traditional Icelandic meals in this captivating expedition through the land of fire and ice.",
+      "image": ["https://i.postimg.cc/gcCHmYMj/Iceland.jpg"],
+      "duration": 11,
+      "price": 4800,
+      "activities": [
+        "Glacier Hiking",
+        "Northern Lights Watching",
+        "Geothermal Spa"
+      ],
+      "accommodation": { "type": "Mountain Cabin", "nights": 10 },
+      "included": ["Expert-Led Tours", "Traditional Icelandic Meals"],
+      "departureDate": "2024-10-05",
+      "maxParticipants": 18
+    },
+    {
+      "tourId": 13,
+      "name": "Safari Spectacle",
+      "destination": "Tanzania",
+      "description": "Embark on an extraordinary safari experience in Tanzania. Witness the wildlife on thrilling safaris, soar above the Serengeti in a hot air balloon, and experience the vibrant culture with Maasai village dinners.",
+      "image": ["https://i.postimg.cc/3wtZTm6Q/Tanzania.jpg"],
+      "duration": 13,
+      "price": 6000,
+      "activities": [
+        "Wildlife Safaris",
+        "Hot Air Balloon Safari",
+        "Maasai Village Experience"
+      ],
+      "accommodation": { "type": "Safari Lodge", "nights": 12 },
+      "included": ["Guided Safari Adventures", "Traditional African Dinners"],
+      "departureDate": "2024-11-15",
+      "maxParticipants": 14
+    },
+    {
+      "tourId": 14,
+      "name": "Kiwi Discovery",
+      "destination": "New Zealand",
+      "description": "Discover the scenic beauty of New Zealand with this immersive tour. Explore Fiordland, enjoy Maori cultural shows, and engage in thrilling adventure sports. Experience the best of New Zealand's landscapes and culture.",
+      "image": ["https://i.postimg.cc/5N8qtZG3/newziland.jpg"],
+      "duration": 14,
+      "price": 5200,
+      "activities": [
+        "Fiordland Exploration",
+        "Maori Cultural Shows",
+        "Adventure Sports"
+      ],
+      "accommodation": { "type": "Boutique Lodge", "nights": 13 },
+      "included": ["Scenic Tours", "New Zealand Cuisine Tasting"],
+      "departureDate": "2024-03-10",
+      "maxParticipants": 15
+    },
+    {
+      "tourId": 15,
+      "name": "Asian Tapestry",
+      "destination": "Multiple Countries (Thailand, Cambodia, Vietnam)",
+      "description": "Embark on an enchanting journey through the tapestry of Southeast Asia. From city tours to cultural immersions, explore the vibrant markets and savor the diverse culinary delights of Thailand, Cambodia, and Vietnam.",
+      "image": ["https://i.postimg.cc/26JFqmrH/Asian.jpg"],
+      "duration": 18,
+      "price": 7500,
+      "activities": [
+        "City Tours",
+        "Cultural Immersions",
+        "Floating Market Visit"
+      ],
+      "accommodation": { "type": "Luxury Resorts", "nights": 17 },
+      "included": ["Private Guided Tours", "Asian Culinary Delights"],
+      "departureDate": "2024-04-25",
+      "maxParticipants": 22
+    },
+    {
+      "tourId": 16,
+      "name": "Luxury in the Desert",
+      "destination": "United Arab Emirates",
+      "description": "Indulge in the opulence of Dubai with this luxury experience in the heart of the desert. From extravagant shopping to desert safaris, experience the grandeur and innovation of this dazzling city.",
+      "image": ["https://i.postimg.cc/vZdhLQ9k/UAE.jpg"],
+      "duration": 9,
+      "price": 5500,
+      "activities": ["Shopping Extravaganza", "Desert Safaris", "Luxury Dining"],
+      "accommodation": { "type": "5-Star Hotels", "nights": 8 },
+      "included": ["Private Shopping Guides", "Fine Dining Experiences"],
+      "departureDate": "2024-11-01",
+      "maxParticipants": 15
+    },
+    {
+      "tourId": 17,
+      "name": "Santorini Dream Escape",
+      "destination": "Greece",
+      "description": "Experience the magic of Santorini on this dreamy escape. Enjoy breathtaking sunsets, explore charming villages, and relax in luxury accommodations overlooking the azure waters of the Aegean Sea.",
+      "image": ["https://i.postimg.cc/CL4BXYXW/Greec.jpg"],
+      "duration": 7,
+      "price": 3500,
+      "activities": [
+        "Sunset Cruises",
+        "Village Explorations",
+        "Beach Relaxation"
+      ],
+      "accommodation": { "type": "Luxury Cliffside Suites", "nights": 6 },
+      "included": ["Private Excursions", "Mediterranean Cuisine"],
+      "departureDate": "2024-09-20",
+      "maxParticipants": 12
+    },
+    {
+      "tourId": 18,
+      "name": "Safari Splendor in South Africa",
+      "destination": "South Africa",
+      "description": "Embark on a safari splendor in the diverse landscapes of South Africa. Witness the Big Five, explore national parks, and engage in conservation efforts on this unforgettable wildlife adventure.",
+      "image": ["https://i.postimg.cc/gjVXYPJL/Africa.jpg"],
+      "duration": 12,
+      "price": 5200,
+      "activities": ["Game Drives", "Conservation Activities", "Nature Walks"],
+      "accommodation": { "type": "Safari Lodges", "nights": 11 },
+      "included": ["Expert Safari Guides", "African Cuisine"],
+      "departureDate": "2024-08-10",
+      "maxParticipants": 16
+    },
+    {
+      "tourId": 19,
+      "name": "Island Paradise in the Mediterranean",
+      "destination": "Greece & Italy",
+      "description": "Embark on a sun-soaked adventure, hopping between the enchanting islands of the Mediterranean. Explore ancient ruins, relax on pristine beaches, and immerse yourself in the rich history and culture of Greece and Italy.",
+      "image": ["https://i.postimg.cc/sDzGT16Y/Greece-Italy.jpg"],
+      "duration": 14,
+      "price": 4800,
+      "activities": [
+        "Island Tours",
+        "Beach Relaxation",
+        "Historical Site Visits"
+      ],
+      "accommodation": { "type": "Seaside Resorts", "nights": 13 },
+      "included": ["Private Island Tours", "Mediterranean Cuisine"],
+      "departureDate": "2024-07-15",
+      "maxParticipants": 18
+    },
+    {
+      "tourId": 20,
+      "name": "Gastronomic Getaway in France",
+      "destination": "France",
+      "description": "Embark on a gastronomic journey through the culinary heart of France. Indulge in wine tastings, cooking classes, and savor exquisite French cuisine in charming villages and renowned vineyards.",
+      "image": ["https://i.postimg.cc/rpsr5bh7/france.jpg"],
+      "duration": 8,
+      "price": 3800,
+      "activities": ["Wine Tastings", "Cooking Classes", "Countryside Tours"],
+      "accommodation": { "type": "Charming Inns", "nights": 7 },
+      "included": ["Gastronomy Experts", "Michelin-Starred Dining"],
+      "departureDate": "2024-06-10",
+      "maxParticipants": 12
+    },
+    {
+      "tourId": 21,
+      "name": "Patagonian Wilderness Quest",
+      "destination": "Argentina & Chile",
+      "description": "Embark on a breathtaking journey through the pristine landscapes of Patagonia. Trek to stunning glaciers, cruise through fjords, and witness the diverse wildlife that calls this region home.",
+      "image": ["https://i.postimg.cc/PfY8b14f/argentina.jpg"],
+      "duration": 13,
+      "price": 5000,
+      "activities": ["Glacier Trekking", "Fjord Cruises", "Wildlife Spotting"],
+      "accommodation": { "type": "Lodges", "nights": 12 },
+      "included": ["Expert Patagonian Guides", "Patagonian Cuisine"],
+      "departureDate": "2024-09-05",
+      "maxParticipants": 16
+    },
+    {
+      "tourId": 22,
+      "name": "Outback Wilderness Expedition",
+      "destination": "Australia",
+      "description": "Explore the rugged beauty of the Australian Outback on this wilderness expedition. Discover ancient rock formations, encounter unique wildlife, and experience the vastness of the iconic Red Centre.",
+      "image": ["https://i.postimg.cc/x1tmJYPK/austrelia.jpg"],
+      "duration": 11,
+      "price": 4600,
+      "activities": ["Outback Safaris", "Aboriginal Culture Tours", "Stargazing"],
+      "accommodation": { "type": "Bush Camps", "nights": 10 },
+      "included": ["Experienced Outback Guides", "Bush Cuisine"],
+      "departureDate": "2024-05-25",
+      "maxParticipants": 14
+    },
+    {
+      "tourId": 23,
+      "name": "Caribbean Cruise Paradise",
+      "destination": "Caribbean",
+      "description": "Embark on a luxurious Caribbean cruise, exploring tropical islands, pristine beaches, and vibrant cultures. Indulge in onboard entertainment, water activities, and unforgettable island excursions.",
+      "image": ["https://i.postimg.cc/GpfsKQVt/Careebian.jpg"],
+      "duration": 9,
+      "price": 3800,
+      "activities": ["Island Hopping", "Snorkeling", "Cultural Excursions"],
+      "accommodation": { "type": "Cruise Ship", "nights": 8 },
+      "included": ["All-Inclusive Cruise Amenities", "Gourmet Dining"],
+      "departureDate": "2024-03-20",
+      "maxParticipants": 20
+    },
+    {
+      "tourId": 24,
+      "name": "Himalayan Trekking Expedition",
+      "destination": "Nepal",
+      "description": "Embark on an epic trekking adventure through the stunning Himalayan landscapes. Trek to iconic peaks, visit ancient monasteries, and experience the warmth of Nepalese hospitality.",
+      "image": ["https://i.postimg.cc/5ydQdtxM/nepal.jpg"],
+      "duration": 14,
+      "price": 4200,
+      "activities": [
+        "Mountain Trekking",
+        "Monastery Visits",
+        "Cultural Immersion"
+      ],
+      "accommodation": { "type": "Teahouses", "nights": 13 },
+      "included": ["Professional Trekking Guides", "Local Cuisine"],
+      "departureDate": "2024-04-15",
+      "maxParticipants": 16
+    },
+    {
+      "tourId": 25,
+      "name": "Arctic Aurora Adventure",
+      "destination": "Norway",
+      "description": "Embark on a magical journey to witness the mesmerizing Northern Lights in the Arctic Circle. Experience thrilling dog sledding, stay in cozy cabins, and capture the beauty of the auroras dancing across the night sky.",
+      "image": ["https://i.postimg.cc/fL0SrdQK/norway.jpg"],
+      "duration": 7,
+      "price": 3500,
+      "activities": ["Northern Lights Tours", "Dog Sledding", "Snowshoeing"],
+      "accommodation": { "type": "Cozy Cabins", "nights": 6 },
+      "included": ["Guided Aurora Hunts", "Traditional Nordic Meals"],
+      "departureDate": "2024-02-01",
+      "maxParticipants": 10
+    },
+    {
+      "package_id": 26,
+      "name": "Historical Wonders Tour",
+      "destination": "Bangladesh",
+      "image": ["https://i.postimg.cc/qMHyW1RC/bangladesh-Historical.jpg"],
+      "duration": 5,
+      "price": 1200,
+      "activities": [
+        "Dhaka",
+        "Rajshahi",
+        "Bagerhat",
+        "Mymensingh"
+      ],
+      "description": "Explore the rich history of Bangladesh through its historical wonders. Visit ancient monuments, archaeological sites, and museums.",
+      "included": [
+        "Sundarbans Mangrove Forest",
+        "Mahasthangarh Archaeological Site",
+        "60 Dome Mosque in Bagerhat",
+        "Lalbagh Fort in Dhaka"
+      ],
+      "departureDate": "2024-02-01",
+      "maxParticipants": 10
+    },
+    {
+      "package_id": 27,
+      "name": "Sundarbans Adventure",
+      "destination": "Bangladesh",
+      "image": ["https://i.postimg.cc/xTGMQLJp/Sundorban.jpg"],
+      "duration": 4,
+      "price": 1000,
+      "activities": [
+        "Khulna",
+        "Sundarbans",
+        "Dublar Char",
+        "Kotka"
+      ],
+      "description": "Embark on an adventurous journey to the Sundarbans, the largest mangrove forest in the world. Explore the unique ecosystem and wildlife.",
+      "included": [
+        "Sundarbans Mangrove Forest",
+        "Dublar Char Fishing Village",
+        "Kotka Wildlife Sanctuary",
+        "Sundarbans Turtle Breeding Center"
+      ],
+      "departureDate": "2024-03-15",
+      "maxParticipants": 12
+    },
+    {
+      "package_id": 28,
+      "name": "Beach Paradise Getaway",
+      "destination": "Bangladesh",
+      "image": ["https://i.postimg.cc/xd1Ktqdx/cox-z-Bazar.jpg"],
+      "duration": 6,
+      "price": 1300,
+      "activities": [
+        "Cox's Bazar",
+        "Inani Beach",
+        "Himchari National Park",
+        "Saint Martin's Island"
+      ],
+      "description": "Relax and unwind on the beautiful beaches of Bangladesh. Enjoy the sun, sea, and sandy shores.",
+      "included": [
+        "Longest Sea Beach in Cox's Bazar",
+        "Inani Beach's Golden Sands",
+        "Snorkeling at Saint Martin's Island"
+      ],
+      "departureDate": "2024-05-20",
+      "maxParticipants": 15
+    },
+    {
+      "package_id": 29,
+      "name": "Tea Plantation Experience",
+      "destination": "Bangladesh",
+      "image": ["https://i.postimg.cc/T39VVnT5/Tea-garden.jpg"],
+      "duration": 4,
+      "price": 900,
+      "activities": [
+        "Srimangal",
+        "Lawachara National Park",
+        "Tea Estates",
+        "Baikka Beel"
+      ],
+      "description": "Immerse yourself in the scenic beauty of tea plantations in Srimangal. Explore nature reserves and birdwatching sites.",
+      "included": [
+        "Lawachara National Park",
+        "Tea Tasting at Tea Estates",
+        "Baikka Beel Wetland Sanctuary"
+      ],
+      "departureDate": "2024-06-08",
+      "maxParticipants": 10
+    },
+    {
+      "package_id": 30,
+      "name": "Adventure Trek to Nafakhum Waterfall",
+      "destination": "Bangladesh",
+      "image": ["https://i.postimg.cc/B6dHSgBk/Nafakhum.jpg"],
+      "duration": 5,
+      "price": 1100,
+      "activities": [
+        "Bandarban",
+        "Thanchi",
+        "Nafakhum",
+        "Amiakhum Waterfall"
+      ],
+      "description": "Embark on an exciting trekking adventure through the hilly landscapes of Bandarban to discover the stunning Nafakhum Waterfall and surrounding natural beauty.",
+      "included": [
+        "Trek to Nafakhum Waterfall",
+        "Amiakhum Waterfall Exploration",
+        "Thanchi Hilltop Views"
+      ],
+      "departureDate": "2024-08-10",
+      "maxParticipants": 10
+    }
+  ]
+  

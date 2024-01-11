@@ -1,0 +1,1154 @@
+[
+    {
+      "_id": "6581c90b7c22d08bff6e2ff0",
+      "hotel_name": "The Westin",
+      "hotel_location": "Gulshan-2, Dhaka, Bangladesh",
+      "hotel_country": "Bangladesh",
+      "description": "The Westin in Gulshan-2, Dhaka, Bangladesh, offers luxurious accommodations and a host of top-notch amenities, ensuring a premium and relaxing stay for guests seeking unparalleled comfort and convenience.",
+      "from": "2023-11-27T18:00:00.000Z",
+      "to": "2023-11-29T18:00:00.000Z",
+      "category": "Modern",
+      "hotel_img": "https://i.postimg.cc/kMj6Nx87/213120-card.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Deluxe King Room Non smoking",
+          "room_price": 320,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "bedrooms": "3",
+          "bathrooms": "2",
+          "guests": "6",
+          "room_img": [
+            "https://i.ibb.co/9y2smRz/download-4.jpg",
+            "https://i.ibb.co/Xk6mPtc/images.jpg",
+            "https://i.ibb.co/y4j9q1g/images-1.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "40m",
+            "Privet Bathroom",
+            "Air Conditioning",
+            "Refrigerator"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Deluxe Two Queen Room Non smoking",
+          "room_price": 320,
+          "sleeps": 3,
+          "beds": "2 Queen beds",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/tHCXMr4/images-2.jpg",
+            "https://i.ibb.co/zF89q6b/images-3.jpg",
+            "https://i.ibb.co/JRT6dCt/images-4.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "40m",
+            "Privet Bathroom",
+            "Air Conditioning",
+            "Refrigerator"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "Strip View King Room Non smoking",
+          "room_price": 320,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/TkD1ngX/images-5.jpg",
+            "https://i.ibb.co/Tcsxd74/images-6.jpg",
+            "https://i.ibb.co/PgN2rdq/images-7.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "40m",
+            "Privet Bathroom",
+            "Air Conditioning",
+            "Refrigerator"
+          ]
+        },
+        {
+          "room_name": "test room",
+          "room_price": 100,
+          "sleeps": 2,
+          "beds": "1 king bed",
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "guests": 2,
+          "room_img": [
+            "https://i.ibb.co/bH5ydZG/fahim-squer.png"
+          ],
+          "room_details": [
+            [
+              "Non-Smoking",
+              "40m",
+              "Privet Bathroom"
+            ]
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 5,
+        "description": "This was a good experience for me"
+      },
+      "Service": [
+        "Indoor Swimming Pool",
+        "Outdoor Swimming Pool",
+        "Casino",
+        "Sauna",
+        "Spa",
+        "Massage Room",
+        "Fitness Room",
+        "ParkingFree",
+        "Bowling Alley",
+        "Restaurant",
+        "Meeting Room",
+        "Multi-Function Room",
+        "Currency Exchange",
+        "Luggage Storage",
+        "24-Hour Front Desk"
+      ]
+    },
+    {
+      "_id": "6581c90b7c22d08bff6e2ff1",
+      "hotel_name": "Luxury Haven",
+      "hotel_location": "Downtown, New York, USA",
+      "hotel_country": "USA",
+      "description": "Luxury Haven in Downtown, New York, USA, offers opulent accommodations and a range of premium amenities for a luxurious and comfortable stay.",
+      "from": "2023-12-01T15:00:00.000Z",
+      "to": "2023-12-03T12:00:00.000Z",
+      "category": "Luxury",
+      "hotel_img": "https://i.postimg.cc/R0Kfjjvb/Coastal-Vista-Resort.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Executive Suite",
+          "room_price": 450,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "bedrooms": "2",
+          "bathrooms": "2",
+          "guests": "4",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "50m",
+            "Private Bathroom",
+            "Jacuzzi",
+            "Mini Bar"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Deluxe Queen Room",
+          "room_price": 350,
+          "sleeps": 2,
+          "beds": "1 Queen bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/fvqZZqS/rosewood-carlyle-presidential-suite-LUXESUITE0122-0046808a88924e57922d78c7f1d9ca60.jpg",
+            "https://i.ibb.co/kHQSPn8/download.jpg",
+            "https://i.ibb.co/QMzXWkH/superior-room.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "45m",
+            "Private Bathroom",
+            "Air Conditioning",
+            "Coffee Maker"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "City View Twin Room",
+          "room_price": 400,
+          "sleeps": 2,
+          "beds": "2 Twin beds",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/hFw9Gkq/download-3.jpg",
+            "https://i.ibb.co/4d21K5b/download-2.jpg",
+            "https://i.ibb.co/WFRysnS/download-1.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "40m",
+            "Private Bathroom",
+            "Balcony",
+            "Free Wi-Fi"
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 4.8,
+        "description": "Absolutely amazing stay with impeccable service."
+      },
+      "Service": [
+        "Indoor Pool",
+        "Spa and Wellness Center",
+        "Fine Dining Restaurant",
+        "Business Center",
+        "Concierge Service",
+        "Valet Parking",
+        "Fitness Center",
+        "24-Hour Room Service",
+        "Conference Facilities",
+        "Childcare Services"
+      ]
+    },
+    {
+      "_id": "6581c90b7c22d08bff6e2ff2",
+      "hotel_name": "Grand Palace Hotel",
+      "hotel_location": "Downtown, London, UK",
+      "hotel_country": "United Kingdom",
+      "description": "Grand Palace Hotel in Downtown, London, UK, offers a blend of elegance and modern comfort, providing an unforgettable experience for guests seeking sophistication and convenience.",
+      "from": "2023-12-10T14:00:00.000Z",
+      "to": "2023-12-12T12:00:00.000Z",
+      "category": "Elegant",
+      "hotel_img": "https://i.ibb.co/Wksq35L/The-Grand-Palace.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Royal Suite",
+          "room_price": 550,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "bedrooms": "3",
+          "bathrooms": "3",
+          "guests": "6",
+          "room_img": [
+            "https://i.ibb.co/hFw9Gkq/download-3.jpg",
+            "https://i.ibb.co/4d21K5b/download-2.jpg",
+            "https://i.ibb.co/WFRysnS/download-1.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "60m",
+            "Private Bathroom",
+            "Jacuzzi",
+            "Mini Bar"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Executive King Room",
+          "room_price": 400,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/fvqZZqS/rosewood-carlyle-presidential-suite-LUXESUITE0122-0046808a88924e57922d78c7f1d9ca60.jpg",
+            "https://i.ibb.co/kHQSPn8/download.jpg",
+            "https://i.ibb.co/QMzXWkH/superior-room.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "50m",
+            "Private Bathroom",
+            "Air Conditioning",
+            "Coffee Maker"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "City View Queen Room",
+          "room_price": 450,
+          "sleeps": 2,
+          "beds": "1 Queen bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "45m",
+            "Private Bathroom",
+            "Balcony",
+            "Free Wi-Fi"
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 4.9,
+        "description": "Exquisite hotel with impeccable service and attention to detail."
+      },
+      "Service": [
+        "Indoor Pool",
+        "Spa and Wellness Center",
+        "Gourmet Restaurant",
+        "Business Center",
+        "Concierge Service",
+        "Valet Parking",
+        "Fitness Center",
+        "24-Hour Room Service",
+        "Conference Facilities",
+        "Children's Playroom"
+      ]
+    },
+    {
+      "_id": "6581c90b7c22d08bff6e2ff3",
+      "hotel_name": "Azure Shores Resort",
+      "hotel_location": "Waikiki Beach, Honolulu, USA",
+      "hotel_country": "United States",
+      "description": "Azure Shores Resort in Waikiki Beach, Honolulu, USA, offers a tropical paradise with luxurious accommodations, making it an ideal destination for a relaxing and rejuvenating getaway.",
+      "from": "2023-12-15T16:00:00.000Z",
+      "to": "2023-12-18T12:00:00.000Z",
+      "category": "Beachfront",
+      "hotel_img": "https://i.postimg.cc/L5HzkNKQ/Azure-Shores-Resort.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Oceanfront Villa",
+          "room_price": 650,
+          "sleeps": 4,
+          "beds": "2 King beds",
+          "bedrooms": "4",
+          "bathrooms": "3",
+          "guests": "8",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "80m",
+            "Private Beach Access",
+            "Kitchenette",
+            "Outdoor Terrace"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Deluxe Ocean View Suite",
+          "room_price": 500,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "60m",
+            "Private Balcony",
+            "Mini Fridge",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "Beachfront Bungalow",
+          "room_price": 600,
+          "sleeps": 3,
+          "beds": "1 King bed, 1 Twin bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "70m",
+            "Outdoor Shower",
+            "Hammock",
+            "Air Conditioning"
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 4.7,
+        "description": "A slice of paradise with excellent service and breathtaking views."
+      },
+      "Service": [
+        "Private Beach",
+        "Infinity Pool",
+        "Beachside Bar and Grill",
+        "Spa Retreat",
+        "Water Sports",
+        "Yoga Classes",
+        "24-Hour Concierge",
+        "Wedding Services",
+        "Gift Shop",
+        "Valet Parking"
+      ]
+    },
+    {
+      "_id": "658ab7cc1563574e4df6ce3f",
+      "hotel_name": "Tropical Oasis Resort",
+      "hotel_location": "Maui, Hawaii, USA",
+      "hotel_country": "United States",
+      "description": "Experience a tropical paradise at the heart of Maui with luxurious accommodations and stunning views.",
+      "from": "2023-10-10T16:00:00.000Z",
+      "to": "2023-10-15T12:00:00.000Z",
+      "category": "Seaside",
+      "hotel_img": "https://i.postimg.cc/26Yvm26j/Tropical-Oasis-Resort.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Oceanfront Villa",
+          "room_price": 700,
+          "sleeps": 4,
+          "beds": "2 Queen beds",
+          "bedrooms": "3",
+          "bathrooms": "2",
+          "guests": "6",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "100m",
+            "Private Beach Access",
+            "Kitchenette",
+            "Outdoor Terrace"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Deluxe Ocean View Suite",
+          "room_price": 500,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "60m",
+            "Private Balcony",
+            "Mini Fridge",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "Beachfront Bungalow",
+          "room_price": 600,
+          "sleeps": 3,
+          "beds": "1 King bed, 1 Twin bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "70m",
+            "Outdoor Shower",
+            "Hammock",
+            "Air Conditioning"
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 4.8,
+        "description": "A true oasis! Wonderful service and breathtaking surroundings."
+      },
+      "Service": [
+        "Private Beach",
+        "Poolside Cabanas",
+        "Fine Dining Restaurant",
+        "Full-Service Spa",
+        "Snorkeling Tours",
+        "Fitness Center",
+        "24-Hour Room Service",
+        "Event Planning",
+        "Souvenir Shop",
+        "Complimentary Parking"
+      ]
+    },
+    {
+      "_id": "658ab85c1563574e4df72b5c",
+      "hotel_name": "Sunny Beach Resort",
+      "hotel_location": "Cancun, Mexico",
+      "hotel_country": "Mexico",
+      "description": "Enjoy a sun-soaked paradise at Sunny Beach Resort in Cancun, Mexico, offering luxurious accommodations and stunning ocean views.",
+      "from": "2023-11-20T16:00:00.000Z",
+      "to": "2023-11-25T12:00:00.000Z",
+      "category": "Beachfront",
+      "hotel_img": "https://i.postimg.cc/wxV5x8LC/Sunny-Beach-Resort.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Luxury Oceanfront Suite",
+          "room_price": 850,
+          "sleeps": 3,
+          "beds": "1 King bed, 1 Sofa bed",
+          "bedrooms": "2",
+          "bathrooms": "2",
+          "guests": "4",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "false",
+          "room_details": [
+            "Smoking Allowed",
+            "120m",
+            "Direct Beach Access",
+            "Full Kitchen",
+            "Private Terrace"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Ocean View Villa",
+          "room_price": 750,
+          "sleeps": 5,
+          "beds": "3 Queen beds",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "90m",
+            "Private Balcony",
+            "Mini Bar",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "Beachfront Cabin",
+          "room_price": 600,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "60m",
+            "Outdoor Shower",
+            "Hammock",
+            "Air Conditioning"
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 4.6,
+        "description": "A wonderful getaway with excellent service and beautiful surroundings."
+      },
+      "Service": [
+        "Private Beach",
+        "Infinity Pool",
+        "Beachside Dining",
+        "Spa Services",
+        "Water Activities",
+        "Yoga Sessions",
+        "24-Hour Concierge",
+        "Event Planning",
+        "Gift Store",
+        "Valet Service"
+      ]
+    },
+    {
+      "_id": "658ab8981563574e4df74ea8",
+      "hotel_name": "Serene Cove Retreat",
+      "hotel_location": "Phuket, Thailand",
+      "hotel_country": "Thailand",
+      "description": "Discover tranquility at Serene Cove Retreat in Phuket, Thailand. A secluded haven offering serene accommodations and captivating vistas.",
+      "from": "2023-09-05T16:00:00.000Z",
+      "to": "2023-09-10T12:00:00.000Z",
+      "category": "Cliffside",
+      "hotel_img": "https://i.postimg.cc/7YZ3fsNf/Serene-Cove-Retreat.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Cliffside Villa",
+          "room_price": 900,
+          "sleeps": 6,
+          "beds": "3 King beds",
+          "bedrooms": "4",
+          "bathrooms": "3",
+          "guests": "8",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "150m",
+            "Private Infinity Pool",
+            "Fully Equipped Kitchen",
+            "Panoramic Terrace"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Ocean View Suite",
+          "room_price": 650,
+          "sleeps": 4,
+          "beds": "2 Queen beds",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "false",
+          "room_details": [
+            "Smoking Allowed",
+            "80m",
+            "Private Balcony",
+            "Mini Bar",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "Beachfront Cottage",
+          "room_price": 550,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "70m",
+            "Outdoor Shower",
+            "Hammock",
+            "Air Conditioning"
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 4.9,
+        "description": "A haven of tranquility! Impeccable service and mesmerizing vistas."
+      },
+      "Service": [
+        "Private Beach Access",
+        "Infinity Pool",
+        "Beachside Restaurant",
+        "Spa Retreat",
+        "Water Sports",
+        "Yoga Sessions",
+        "24-Hour Concierge",
+        "Event Hosting",
+        "Boutique Shop",
+        "Valet Parking"
+      ]
+    },
+    {
+      "_id": "658ab8d71563574e4df778fb",
+      "hotel_name": "Coastal Vista Resort",
+      "hotel_location": "Gold Coast, Australia",
+      "hotel_country": "Australia",
+      "description": "Experience coastal elegance at Coastal Vista Resort in Gold Coast, Australia, offering luxurious accommodations and breathtaking ocean vistas.",
+      "from": "2023-12-01T16:00:00.000Z",
+      "to": "2023-12-07T12:00:00.000Z",
+      "category": "Coastal",
+      "hotel_img": "https://i.postimg.cc/R0Kfjjvb/Coastal-Vista-Resort.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Beachfront Suite",
+          "room_price": 800,
+          "sleeps": 3,
+          "beds": "1 King bed, 1 Sofa bed",
+          "bedrooms": "2",
+          "bathrooms": "2",
+          "guests": "4",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "120m",
+            "Private Balcony",
+            "Full Kitchen",
+            "Ocean View"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Coastal Retreat",
+          "room_price": 550,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "60m",
+            "Private Patio",
+            "Mini Bar",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "Ocean View Loft",
+          "room_price": 700,
+          "sleeps": 4,
+          "beds": "2 Queen beds",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "false",
+          "room_details": [
+            "Smoking Allowed",
+            "80m",
+            "Private Terrace",
+            "Work Desk",
+            "Free Wi-Fi"
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 4.7,
+        "description": "An idyllic escape! Exceptional service and mesmerizing coastal vistas."
+      },
+      "Service": [
+        "Private Beach Access",
+        "Infinity Pool",
+        "Oceanfront Dining",
+        "Spa Services",
+        "Water Activities",
+        "Fitness Classes",
+        "24-Hour Concierge",
+        "Event Planning",
+        "Boutique Store",
+        "Complimentary Parking"
+      ]
+    },
+    {
+      "_id": "658abc631563574e4dfa3cac",
+      "hotel_name": "Mountain Vista Lodge",
+      "hotel_location": "Aspen, Colorado, USA",
+      "hotel_country": "United States",
+      "description": "Embrace nature's beauty at Mountain Vista Lodge in Aspen, Colorado. A cozy retreat amidst scenic mountains offering luxurious accommodations.",
+      "from": "2023-08-15T16:00:00.000Z",
+      "to": "2023-08-20T12:00:00.000Z",
+      "category": "Mountain",
+      "hotel_img": "https://i.postimg.cc/KjJt0BmG/Mountain-Vista-Lodge.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Ski Chalet",
+          "room_price": 1200,
+          "sleeps": 8,
+          "beds": "4 King beds",
+          "bedrooms": "5",
+          "bathrooms": "4",
+          "guests": "10",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "200m",
+            "Ski-in/Ski-out",
+            "Fireplace",
+            "Mountain View"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Mountain View Suite",
+          "room_price": 800,
+          "sleeps": 4,
+          "beds": "2 Queen beds",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "70m",
+            "Private Balcony",
+            "Mini Fridge",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "Cabin Retreat",
+          "room_price": 500,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "false",
+          "room_details": [
+            "Smoking Allowed",
+            "50m",
+            "Mountain View",
+            "Work Desk",
+            "Free Wi-Fi"
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 4.6,
+        "description": "A serene mountain getaway! Great service and breathtaking mountain vistas."
+      },
+      "Service": [
+        "Hiking Trails",
+        "Hot Tub",
+        "Mountain Dining",
+        "Spa Services",
+        "Nature Tours",
+        "Fitness Classes",
+        "24-Hour Concierge",
+        "Event Hosting",
+        "Gift Shop",
+        "Complimentary Parking"
+      ]
+    },
+    {
+      "_id": "658abc9d1563574e4dfa60ed",
+      "hotel_name": "Island Paradise Retreat",
+      "hotel_location": "Bora Bora, French Polynesia",
+      "hotel_country": "French Polynesia",
+      "description": "Escape to the serene beauty of Bora Bora at Island Paradise Retreat. Experience luxury amidst crystal-clear waters and lush landscapes.",
+      "from": "2023-09-25T16:00:00.000Z",
+      "to": "2023-10-01T12:00:00.000Z",
+      "category": "Island",
+      "hotel_img": "https://i.postimg.cc/yYpF9mfn/Island-Paradise-Retreat.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Overwater Bungalow",
+          "room_price": 1500,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "bedrooms": "1",
+          "bathrooms": "1",
+          "guests": "2",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "90m",
+            "Private Deck with Lagoon Access",
+            "Glass Floor Panels",
+            "Sun Loungers"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Beachfront Villa",
+          "room_price": 1800,
+          "sleeps": 6,
+          "beds": "3 King beds",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "150m",
+            "Private Beach Access",
+            "Private Pool",
+            "Outdoor Dining Area"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "Garden View Suite",
+          "room_price": 1200,
+          "sleeps": 4,
+          "beds": "2 Queen beds",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "false",
+          "room_details": [
+            "Smoking Allowed",
+            "100m",
+            "Private Terrace",
+            "Kitchenette",
+            "Free Wi-Fi"
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 4.9,
+        "description": "A heavenly escape! Impeccable service and stunning vistas in paradise."
+      },
+      "Service": [
+        "Private Beach",
+        "Infinity Pool",
+        "Beachfront Dining",
+        "Spa Services",
+        "Water Sports",
+        "Yoga Sessions",
+        "24-Hour Concierge",
+        "Event Planning",
+        "Souvenir Shop",
+        "Complimentary Airport Transfers"
+      ]
+    },
+    {
+      "_id": "658abcd11563574e4dfa7f41",
+      "hotel_name": "Luxury Oasis Hotel",
+      "hotel_location": "Dubai Marina, Dubai, UAE",
+      "hotel_country": "United Arab Emirates",
+      "description": "Indulge in opulence at the Luxury Oasis Hotel located in Dubai Marina. Experience world-class amenities and stunning city views.",
+      "from": "2023-11-10T16:00:00.000Z",
+      "to": "2023-11-15T12:00:00.000Z",
+      "category": "City Center",
+      "hotel_img": "https://i.postimg.cc/Vk3nZYPC/Luxury-Oasis-Hotel.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Skyline Suite",
+          "room_price": 1200,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "bedrooms": "1",
+          "bathrooms": "1",
+          "guests": "2",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "80m",
+            "Private Balcony with City View",
+            "Luxury Bathroom",
+            "Complimentary Minibar"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Executive Suite",
+          "room_price": 1500,
+          "sleeps": 4,
+          "beds": "2 Queen beds",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "100m",
+            "Separate Living Area",
+            "Private Workspace",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "Deluxe Room",
+          "room_price": 800,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "false",
+          "room_details": [
+            "Smoking Allowed",
+            "60m",
+            "City View",
+            "Workspace",
+            "Free Wi-Fi"
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 4.8,
+        "description": "An extraordinary stay! Exceptional service and breathtaking cityscape views."
+      },
+      "Service": [
+        "Rooftop Pool",
+        "Gourmet Dining",
+        "Spa & Wellness Center",
+        "Concierge Service",
+        "Business Center",
+        "Fitness Studio",
+        "24-Hour Room Service",
+        "Event Spaces",
+        "Gift Shop",
+        "Complimentary Valet Parking"
+      ]
+    },
+    {
+      "_id": "658abd101563574e4dfaa671",
+      "hotel_name": "Elegance Towers",
+      "hotel_location": "Downtown Dubai, Dubai, UAE",
+      "hotel_country": "United Arab Emirates",
+      "description": "Welcome to Elegance Towers in the heart of Downtown Dubai. Experience sophistication and luxury with breathtaking views of the city's skyline.",
+      "from": "2023-10-20T16:00:00.000Z",
+      "to": "2023-10-25T12:00:00.000Z",
+      "category": "City Center",
+      "hotel_img": "https://i.postimg.cc/rwd59D3T/Elegance-Towers.jpg",
+      "hotel_room": [
+        {
+          "room_id": 1,
+          "room_name": "Presidential Suite",
+          "room_price": 2500,
+          "sleeps": 4,
+          "beds": "2 King beds",
+          "bedrooms": "2",
+          "bathrooms": "2",
+          "guests": "4",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "150m",
+            "Panoramic View Suite",
+            "Separate Living & Dining Areas",
+            "Jacuzzi"
+          ]
+        },
+        {
+          "room_id": 2,
+          "room_name": "Executive Room",
+          "room_price": 1200,
+          "sleeps": 2,
+          "beds": "1 King bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "true",
+          "room_details": [
+            "Non-Smoking",
+            "60m",
+            "City View Room",
+            "Work Desk",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "room_id": 3,
+          "room_name": "Deluxe Suite",
+          "room_price": 1800,
+          "sleeps": 3,
+          "beds": "1 King bed, 1 Sofa bed",
+          "guestRoom": "Guest Room",
+          "room_img": [
+            "https://i.ibb.co/q04Qnxd/li-yang-a8i-CZvtr-Hp-Q-unsplash.jpg",
+            "https://i.ibb.co/9ZB3hyk/markus-spiske-g5-ZIXjz-RGds-unsplash.jpg",
+            "https://i.ibb.co/BfZHq3B/christopher-jolly-Gqb-U78bd-JFM-unsplash.jpg"
+          ],
+          "available": "false",
+          "room_details": [
+            "Smoking Allowed",
+            "100m",
+            "Separate Living Room",
+            "Mini Bar",
+            "Free Wi-Fi"
+          ]
+        }
+      ],
+      "guest_review": {
+        "ratings": 4.9,
+        "description": "Absolutely stunning! Exceptional service and remarkable views."
+      },
+      "Service": [
+        "Infinity Pool",
+        "Fine Dining Restaurant",
+        "Full-Service Spa",
+        "Concierge Assistance",
+        "Business Center",
+        "Fitness Gym",
+        "24-Hour Room Service",
+        "Event Spaces",
+        "Boutique Store",
+        "Complimentary Valet Parking"
+      ]
+    }
+  ]

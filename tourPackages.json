@@ -14,7 +14,12 @@
       },
       "included": ["Guided tours", "Meals", "Transportation"],
       "departureDate": "2024-03-01",
-      "maxParticipants": 15
+      "maxParticipants": 15,
+      "total_sale" : 5,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 2,
@@ -31,7 +36,12 @@
       },
       "included": ["Airport Transfers", "All-Inclusive Meals"],
       "departureDate": "2024-05-15",
-      "maxParticipants": 20
+      "maxParticipants": 20,
+      "total_sale" : 0,
+      "ratings" : 0,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 3,
@@ -48,7 +58,12 @@
       },
       "included": ["Guided Cultural Tours", "Local Cuisine"],
       "departureDate": "2024-04-10",
-      "maxParticipants": 12
+      "maxParticipants": 12,
+      "total_sale" : 2,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 4,
@@ -69,7 +84,12 @@
       },
       "included": ["Guided Historical Tours", "Authentic Italian Meals"],
       "departureDate": "2024-09-01",
-      "maxParticipants": 10
+      "maxParticipants": 10,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 5,
@@ -86,7 +106,12 @@
       },
       "included": ["Private Beach Excursions", "Traditional Balinese Spa"],
       "departureDate": "2024-07-20",
-      "maxParticipants": 20
+      "maxParticipants": 20,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 6,
@@ -104,7 +129,12 @@
       "accommodation": { "type": "Luxury Safari Lodge", "nights": 11 },
       "included": ["Guided Safari Tours", "Traditional African Cuisine"],
       "departureDate": "2024-08-15",
-      "maxParticipants": 15
+      "maxParticipants": 15,
+      "total_sale" : 5,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 7,
@@ -118,7 +148,12 @@
       "accommodation": { "type": "Ryokan", "nights": 7 },
       "included": ["Guided Cultural Tours", "Local Cuisine"],
       "departureDate": "2024-05-10",
-      "maxParticipants": 12
+      "maxParticipants": 12,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 8,
@@ -136,7 +171,12 @@
       "accommodation": { "type": "Andean Lodge", "nights": 8 },
       "included": ["Expert Guided Tours", "Peruvian Gastronomy Experience"],
       "departureDate": "2024-07-01",
-      "maxParticipants": 14
+      "maxParticipants": 14,
+      "total_sale" : 5,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 9,
@@ -154,7 +194,12 @@
       "accommodation": { "type": "Overwater Villa", "nights": 9 },
       "included": ["Private Island Tours", "Gourmet Dining"],
       "departureDate": "2024-09-10",
-      "maxParticipants": 10
+      "maxParticipants": 10,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 10,
@@ -168,7 +213,12 @@
       "accommodation": { "type": "Luxury Hotels", "nights": 14 },
       "included": ["Private Guided Excursions", "Culinary Experiences"],
       "departureDate": "2024-06-01",
-      "maxParticipants": 20
+      "maxParticipants": 20,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 11,
@@ -186,7 +236,12 @@
       "accommodation": { "type": "Eco-Lodge", "nights": 13 },
       "included": ["Guided Rainforest Tours", "Local Cuisine"],
       "departureDate": "2024-08-20",
-      "maxParticipants": 16
+      "maxParticipants": 16,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 12,
@@ -204,7 +259,12 @@
       "accommodation": { "type": "Mountain Cabin", "nights": 10 },
       "included": ["Expert-Led Tours", "Traditional Icelandic Meals"],
       "departureDate": "2024-10-05",
-      "maxParticipants": 18
+      "maxParticipants": 18,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 13,
@@ -222,7 +282,12 @@
       "accommodation": { "type": "Safari Lodge", "nights": 12 },
       "included": ["Guided Safari Adventures", "Traditional African Dinners"],
       "departureDate": "2024-11-15",
-      "maxParticipants": 14
+      "maxParticipants": 14,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 14,
@@ -240,7 +305,12 @@
       "accommodation": { "type": "Boutique Lodge", "nights": 13 },
       "included": ["Scenic Tours", "New Zealand Cuisine Tasting"],
       "departureDate": "2024-03-10",
-      "maxParticipants": 15
+      "maxParticipants": 15,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 15,
@@ -258,7 +328,12 @@
       "accommodation": { "type": "Luxury Resorts", "nights": 17 },
       "included": ["Private Guided Tours", "Asian Culinary Delights"],
       "departureDate": "2024-04-25",
-      "maxParticipants": 22
+      "maxParticipants": 22,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 16,
@@ -272,7 +347,12 @@
       "accommodation": { "type": "5-Star Hotels", "nights": 8 },
       "included": ["Private Shopping Guides", "Fine Dining Experiences"],
       "departureDate": "2024-11-01",
-      "maxParticipants": 15
+      "maxParticipants": 15,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 17,
@@ -290,7 +370,12 @@
       "accommodation": { "type": "Luxury Cliffside Suites", "nights": 6 },
       "included": ["Private Excursions", "Mediterranean Cuisine"],
       "departureDate": "2024-09-20",
-      "maxParticipants": 12
+      "maxParticipants": 12,
+      "total_sale" : 5,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 18,
@@ -304,7 +389,12 @@
       "accommodation": { "type": "Safari Lodges", "nights": 11 },
       "included": ["Expert Safari Guides", "African Cuisine"],
       "departureDate": "2024-08-10",
-      "maxParticipants": 16
+      "maxParticipants": 16,
+      "total_sale" : 0,
+      "ratings" : 0,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 19,
@@ -322,7 +412,12 @@
       "accommodation": { "type": "Seaside Resorts", "nights": 13 },
       "included": ["Private Island Tours", "Mediterranean Cuisine"],
       "departureDate": "2024-07-15",
-      "maxParticipants": 18
+      "maxParticipants": 18,
+      "total_sale" : 5,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 20,
@@ -336,7 +431,12 @@
       "accommodation": { "type": "Charming Inns", "nights": 7 },
       "included": ["Gastronomy Experts", "Michelin-Starred Dining"],
       "departureDate": "2024-06-10",
-      "maxParticipants": 12
+      "maxParticipants": 12,
+      "total_sale" : 0,
+      "ratings" : 0,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 21,
@@ -350,7 +450,12 @@
       "accommodation": { "type": "Lodges", "nights": 12 },
       "included": ["Expert Patagonian Guides", "Patagonian Cuisine"],
       "departureDate": "2024-09-05",
-      "maxParticipants": 16
+      "maxParticipants": 16,
+      "total_sale" : 3,
+      "ratings" : 4,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 22,
@@ -364,7 +469,12 @@
       "accommodation": { "type": "Bush Camps", "nights": 10 },
       "included": ["Experienced Outback Guides", "Bush Cuisine"],
       "departureDate": "2024-05-25",
-      "maxParticipants": 14
+      "maxParticipants": 14,
+      "total_sale" : 1,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 23,
@@ -378,7 +488,12 @@
       "accommodation": { "type": "Cruise Ship", "nights": 8 },
       "included": ["All-Inclusive Cruise Amenities", "Gourmet Dining"],
       "departureDate": "2024-03-20",
-      "maxParticipants": 20
+      "maxParticipants": 20,
+      "total_sale" : 0,
+      "ratings" : 0,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 24,
@@ -396,7 +511,12 @@
       "accommodation": { "type": "Teahouses", "nights": 13 },
       "included": ["Professional Trekking Guides", "Local Cuisine"],
       "departureDate": "2024-04-15",
-      "maxParticipants": 16
+      "maxParticipants": 16,
+      "total_sale" : 0,
+      "ratings" : 0,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "tourId": 25,
@@ -410,7 +530,12 @@
       "accommodation": { "type": "Cozy Cabins", "nights": 6 },
       "included": ["Guided Aurora Hunts", "Traditional Nordic Meals"],
       "departureDate": "2024-02-01",
-      "maxParticipants": 10
+      "maxParticipants": 10,
+      "total_sale" : 0,
+      "ratings" : 0,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "package_id": 26,
@@ -433,7 +558,12 @@
         "Lalbagh Fort in Dhaka"
       ],
       "departureDate": "2024-02-01",
-      "maxParticipants": 10
+      "maxParticipants": 10,
+      "total_sale" : 0,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "package_id": 27,
@@ -456,7 +586,12 @@
         "Sundarbans Turtle Breeding Center"
       ],
       "departureDate": "2024-03-15",
-      "maxParticipants": 12
+      "maxParticipants": 12,
+      "total_sale" : 3,
+      "ratings" : 3,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "package_id": 28,
@@ -478,7 +613,12 @@
         "Snorkeling at Saint Martin's Island"
       ],
       "departureDate": "2024-05-20",
-      "maxParticipants": 15
+      "maxParticipants": 15,
+      "total_sale" : 14,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "package_id": 29,
@@ -500,14 +640,19 @@
         "Baikka Beel Wetland Sanctuary"
       ],
       "departureDate": "2024-06-08",
-      "maxParticipants": 10
+      "maxParticipants": 10,
+      "total_sale" : 6,
+      "ratings" : 5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     },
     {
       "package_id": 30,
       "name": "Adventure Trek to Nafakhum Waterfall",
       "destination": "Bangladesh",
       "image": ["https://i.postimg.cc/B6dHSgBk/Nafakhum.jpg"],
-      "duration": 5,
+      "duration": 7,
       "price": 1100,
       "activities": [
         "Bandarban",
@@ -522,7 +667,12 @@
         "Thanchi Hilltop Views"
       ],
       "departureDate": "2024-08-10",
-      "maxParticipants": 10
+      "maxParticipants": 10,
+      "total_sale" : 10,
+      "ratings" : 4.5,
+      "reviews" : [
+        {"name": "", "review": ""}
+      ]
     }
   ]
   

@@ -1,0 +1,26 @@
+[
+    {
+      "flightNumber": "ABC123",
+      "airline": "AirTravel Express",
+      "departureAirport": "JFK",
+      "destinationAirport": "LAX",
+      "departureDateTime": "2024-02-15T08:00:00",
+      "arrivalDateTime": "2024-02-15T11:30:00",
+      "price": 350.00,
+      "seatsAvailable": 120,
+      "seatClasses": [
+        {
+          "class": "Economy",
+          "price": 450.00,
+          "seatsAvailable": 80
+        },
+        {
+          "class": "Business",
+          "price": 700.00,
+          "seatsAvailable": 20
+        }
+      ],
+      "bookingStatus": "Open"
+    }
+  ]
+  

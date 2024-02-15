@@ -1,86 +1,119 @@
 <!-- for hotel: -->
 <!-- front: -->
-https://i.postimg.cc/MTwy36Cx/pexels-max-rahubovskiy-5997996.jpg
-https://i.postimg.cc/RFvHQPtZ/pexels-quang-nguyen-vinh-14011609.jpg
-https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/room-single-gallery-img-21.jpg
-https://i.postimg.cc/sDL5d9kT/pexels-max-rahubovskiy-7061662.jpg
-https://i.postimg.cc/mrycDQnf/pexels-kenneth-dahl-10862669.jpg
-https://i.postimg.cc/pVhFQnh8/pexels-quang-nguyen-vinh-14024958.jpg
-https://i.postimg.cc/h4dXQW61/pexels-quang-nguyen-vinh-14917453.jpg
-https://i.postimg.cc/NMrjXmJj/pexels-erica-zhao-2670273.jpg
-https://i.postimg.cc/9Qn2BzqR/pexels-roy-cano-13460178.jpg
-https://i.postimg.cc/fb9GjCNp/pexels-binyamin-mellish-1396122.jpg
-https://i.postimg.cc/fyrCP47K/pexels-taryn-elliott-4112236.jpg
-https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/pinterest-blog-img-2.jpg
-https://gaviaspreview.com/wp/boliin/wp-content/uploads/2023/01/tour-8.jpg
-https://i.postimg.cc/fy9D3sbt/pexels-chris-goodwin-32870.jpg
+
+<!-- https://i.postimg.cc/MTwy36Cx/pexels-max-rahubovskiy-5997996.jpg -->
+<!-- https://i.postimg.cc/RFvHQPtZ/pexels-quang-nguyen-vinh-14011609.jpg -->
+<!-- https://i.postimg.cc/sDL5d9kT/pexels-max-rahubovskiy-7061662.jpg -->
+<!-- https://i.postimg.cc/mrycDQnf/pexels-kenneth-dahl-10862669.jpg -->
+<!-- https://i.postimg.cc/pVhFQnh8/pexels-quang-nguyen-vinh-14024958.jpg -->
+<!-- https://i.postimg.cc/h4dXQW61/pexels-quang-nguyen-vinh-14917453.jpg -->
+<!-- https://i.postimg.cc/NMrjXmJj/pexels-erica-zhao-2670273.jpg -->
+<!-- https://i.postimg.cc/9Qn2BzqR/pexels-roy-cano-13460178.jpg -->
+<!-- https://i.postimg.cc/fb9GjCNp/pexels-binyamin-mellish-1396122.jpg -->
+<!-- https://i.postimg.cc/fyrCP47K/pexels-taryn-elliott-4112236.jpg -->
+<!-- https://i.postimg.cc/02Jdq8nq/pexels-chris-goodwin-32870.jpg -->
 
 
 <!-- For banner: -->
-https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-79.jpg
-https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-74-3.jpg
-https://cozystay.loftocean.com/countryside-lodge/wp-content/uploads/sites/5/2023/03/img-50.jpg
 
+https://i.postimg.cc/MGJBwVT7/img-50.jpg
+https://i.postimg.cc/zGgh40JD/img-74-3.jpg
+https://i.postimg.cc/L67fyrF0/img-79.jpg
 
 <!-- for blog: -->
-https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-78-1.jpg
-https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-77-1.jpg
-https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-76.jpg
-https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-75.jpg
+
+https://i.postimg.cc/FsfkJDkb/img-75.jpg
+https://i.postimg.cc/nVSQz6rc/img-76.jpg
+https://i.postimg.cc/cCCghc9S/img-77-1.jpg
+https://i.postimg.cc/bJ3S15Rg/img-78-1.jpg
 
 <!-- Hotel room details page: -->
-https://49themes.com/demos/lakeciouswp/wp-content/uploads/2017/01/4-1.jpg
-https://49themes.com/demos/lakeciouswp/wp-content/uploads/2016/12/7-2-1.jpg
-https://hotellerv5.b-cdn.net/resort/wp-content/uploads/sites/7/2021/08/fran-hogan-0w8DUHgGGjs-unsplash-700x466.jpg
-https://hotellerv5.b-cdn.net/resort/wp-content/uploads/sites/7/2018/09/edelle-bruton-PJNO2sLlbB8-unsplash-700x466.jpg
-1.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/05/centered-slider-img-05.jpg
-2.https://hotel-booking-lilac.vercel.app/_next/image?url=%2Fimages%2Fphoto_01.jpg&w=1920&q=75
-.https://hotel-booking-lilac.vercel.app/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdogdjdfih%2Fimage%2Fupload%2Fv1686560180%2Fu2yjdnkv5jom7kovsf9u.jpg&w=1920&q=75
-4.https://hotel-booking-lilac.vercel.app/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdogdjdfih%2Fimage%2Fupload%2Fv1685374426%2Ftllhvfk9bpac68nqonxu.webp&w=1920&q=75
-5.https://demo.klayemorrison.com/jasper-hotel/preview/500x300-7.jpg
-6.https://demo.klayemorrison.com/jasper-hotel/preview/500x300-8.jpg
-7.https://demo.klayemorrison.com/jasper-hotel/preview/1240x650-14.jpg
-8.https://demo.klayemorrison.com/jasper-hotel/preview/1240x650-15.jpg
-9.https://velikorodnov.com/html/milenia/images/rooms-list-image-18.jpg
-10.https://velikorodnov.com/html/milenia/images/rooms-list-image-15.jpg
-11.https://augustine.qodeinteractive.com/wp-content/uploads/2020/11/h4-img1.jpg
-12.https://hotellerv6-5.b-cdn.net/lifestyle/wp-content/uploads/sites/3/2023/09/interior-design-of-modern-living-room-2022-12-07-04-28-42-utc-1.jpg
-13.https://hotellerv6-5.b-cdn.net/lifestyle/wp-content/uploads/sites/3/2023/09/interior-design-of-stylish-living-room-interior-2022-12-07-04-27-20-utc-1-660x913.jpg
-14.https://hotellerv6-5.b-cdn.net/lifestyle/wp-content/uploads/sites/3/2023/09/metal-bed-in-modern-bedroom-2021-08-26-15-45-23-utc-660x913.jpg
-15.https://hotellerv6-5.b-cdn.net/lifestyle/wp-content/uploads/sites/3/2023/09/bed-setting-2021-08-28-22-29-35-utc.jpg
-16.https://hotellerv6-5.b-cdn.net/airport/wp-content/uploads/sites/5/2023/09/francesca-tosolini-w1RE0lBbREo-unsplash-610x610.jpg
-17.https://hotellerv6-5.b-cdn.net/airport/wp-content/uploads/sites/5/2023/09/reisetopia-KSmhDzx1tvo-unsplash-2-610x610.jpg
-18.https://hotellerv6-5.b-cdn.net/airport/wp-content/uploads/sites/5/2023/09/chastity-cortijo-R-w5Q-4Mqm0-unsplash-2-610x610.jpg
-19.https://hotellerv6-5.b-cdn.net/airport/wp-content/uploads/sites/5/2023/09/point3d-commercial-imaging-ltd-kCSlhhC-Ch8-unsplash-610x610.jpg
-20.https://hotellerv6-5.b-cdn.net/wp-content/uploads/2023/08/jsb-co-G4tRIAaOmrQ-unsplash-610x610.jpg
-21.https://hotellerv6-5.b-cdn.net/wp-content/uploads/2023/08/jsb-co-s1sMB0UPN24-unsplash-700x466.jpg
-22.https://hotellerv6-5.b-cdn.net/wp-content/uploads/2023/08/eugene-deshko-kx7JVpadg0E-unsplash-700x466.jpg
-23.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/h6-room-img-01.jpg
-24.https://gaviaspreview.com/wp/boliin/wp-content/uploads/2023/01/tour-6.jpg
-25.https://gaviaspreview.com/wp/boliin/wp-content/uploads/2023/01/tour-2.jpg
-26.https://gaviaspreview.com/wp/boliin/wp-content/uploads/2023/01/tour-1.jpg
-27.https://gaviaspreview.com/wp/boliin/wp-content/uploads/2023/01/tour-9.jpg
-28.https://gaviaspreview.com/wp/boliin/wp-content/uploads/2023/01/tour-7.jpg
-29.https://gaviaspreview.com/wp/boliin/wp-content/uploads/2023/01/tour-10.jpg
-30.https://gaviaspreview.com/wp/boliin/wp-content/uploads/2023/01/tour-5.jpg
-31.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/h5-room-img-04.jpg
-32.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/h5-room-img-05.jpg
-33.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/h5-room-img-06.jpg
-34.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/h5-room-img-01.jpg
-35.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/h5-room-img-02.jpg
-36.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/h5-room-img-03.jpg
-37.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/h7-img-02.jpg
-38.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/h7-img-03.jpg
-39.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/h6-room-img-02.jpg
-40.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/h6-room-img-04.jpg
-food:
-41.https://alloggio.qodeinteractive.com/wp-content/uploads/2020/03/blog-featured-img-11.jpg
-42.https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-39-2.jpg
-43.https://cozystay.loftocean.com/countryside-lodge/wp-content/uploads/sites/5/2023/04/img-60.jpg
-44.https://cozystay.loftocean.com/countryside-lodge/wp-content/uploads/sites/5/2023/04/img-61.jpg
-45.https://cozystay.loftocean.com/countryside-lodge/wp-content/uploads/sites/5/2023/05/marvin-meyer-fBdlytm6Hp8-unsplash-2.jpg
 
-46.https://cozystay.loftocean.com/countryside-lodge/wp-content/uploads/sites/5/2023/03/david-ress-0W3oxKVx5WY-unsplash.jpg
-47.https://hotellerv6-5.b-cdn.net/wp-content/uploads/2023/08/jsb-co-w6Pmdfh9rJs-unsplash-700x466.jpg
-48.https://hotellerv6.b-cdn.net/multi-locations/wp-content/uploads/sites/2/2022/06/zero-take-I-slv5SrSYo-unsplash.jpg
-https://hotellerv5.b-cdn.net/resort/wp-content/uploads/sites/7/2021/08/interior-of-hotel-room-2021-04-02-21-13-32-utc-700x466.jpg
+<!-- https://i.postimg.cc/Dw0hzMWF/1240x650-14.jpg
+https://i.postimg.cc/7ZRkJn7z/1240x650-15.jpg
+https://i.postimg.cc/Lsr2w38S/4-1.jpg
+https://i.postimg.cc/4NJZDdsY/500x300-7.jpg
+https://i.postimg.cc/MKdxqSpd/500x300-8.jpg -->
+
+<!-- https://i.postimg.cc/qRy4T6N3/7-2-1.jpg
+https://i.postimg.cc/022RtB0m/bed-setting-2021-08-28-22-29-35-utc.jpg
+https://i.postimg.cc/8kdNXWQ8/centered-slider-img-05.jpg
+https://i.postimg.cc/Sx3BxNF7/chastity-cortijo-R-w5-Q-4-Mqm0-unsplash-2-610x610.jpg
+https://i.postimg.cc/5ymJHcq9/edelle-bruton-PJNO2s-Llb-B8-unsplash-700x466.jpg -->
+
+<!-- https://i.postimg.cc/PJXcRCYh/eugene-deshko-kx7-JVpadg0-E-unsplash-700x466.jpg
+https://i.postimg.cc/6qKw56Z1/fran-hogan-0w8-DUHg-GGjs-unsplash-700x466.jpg
+https://i.postimg.cc/3JSMzFtq/francesca-tosolini-w1-RE0l-Bb-REo-unsplash-610x610.jpg
+https://i.postimg.cc/mDYfqxn3/h4-img1.jpg
+https://i.postimg.cc/fW8gbTYt/h5-room-img-01.jpg -->
+
+<!-- https://i.postimg.cc/c46ktycD/h5-room-img-02.jpg
+https://i.postimg.cc/kXZ1x117/h5-room-img-03.jpg
+https://i.postimg.cc/26w9hCJt/h5-room-img-04.jpg
+https://i.postimg.cc/qqvbG9Hv/h5-room-img-05.jpg
+https://i.postimg.cc/1X7W7Jyc/h5-room-img-06.jpg -->
+
+<!-- https://i.postimg.cc/kGTZ37vS/h6-room-img-01.jpg
+https://i.postimg.cc/DzQx322z/h6-room-img-02.jpg
+https://i.postimg.cc/9MWJWvMY/h6-room-img-04.jpg
+https://i.postimg.cc/4x98w6qV/h7-img-02.jpg
+https://i.postimg.cc/zfYxQLYM/h7-img-03.jpg -->
+
+
+
+<!-- https://i.postimg.cc/6qBJxjsk/interior-design-of-modern-living-room-2022-12-07-04-28-42-utc-1.jpg
+https://i.postimg.cc/NFbhs6B5/interior-design-of-stylish-living-room-interior-2022-12-07-04-27-20-utc-1-660x913.jpg
+https://i.postimg.cc/DZKR1jzS/jsb-co-G4t-RIAa-Omr-Q-unsplash-610x610.jpg
+https://i.postimg.cc/0QdFnY6c/jsb-co-s1s-MB0-UPN24-unsplash-700x466.jpg
+https://i.postimg.cc/BZCfB0H4/metal-bed-in-modern-bedroom-2021-08-26-15-45-23-utc-660x913.jpg -->
+
+<!-- https://i.postimg.cc/rp4v0Xq6/point3d-commercial-imaging-ltd-k-CSlhh-C-Ch8-unsplash-610x610.jpg
+https://i.postimg.cc/YCvc7LVC/reisetopia-KSmh-Dzx1tvo-unsplash-2-610x610.jpg
+https://i.postimg.cc/V6QPDsKL/rooms-list-image-15.jpg
+https://i.postimg.cc/QMWrQKky/rooms-list-image-18.jpg
+https://i.postimg.cc/pX17sXTb/tour-1.jpg -->
+
+<!-- https://i.postimg.cc/Lsjb4tV2/tour-10.jpg
+https://i.postimg.cc/285MdBC7/tour-2.jpg
+https://i.postimg.cc/NMYPKKNT/tour-5.jpg
+https://i.postimg.cc/mZjKFSWr/tour-6.jpg
+https://i.postimg.cc/bw75jCkm/tour-7.jpg -->
+
+<!-- https://i.postimg.cc/7PpDhRk7/pexels-wewe-yang-4063401.jpg
+https://i.postimg.cc/7ZQbBVzN/pexels-taryn-elliott-4112661.jpg
+https://i.postimg.cc/R06h2HQx/pexels-engin-akyurt-4177715.jpg
+https://i.postimg.cc/sxcg59y7/pexels-curtis-adams-4119845.jpg
+https://i.postimg.cc/P5crbqG3/pexels-max-rahubovskiy-8092390.jpg -->
+
+<!-- https://i.postimg.cc/2ybp9V6Y/pexels-curtis-adams-3773582.jpg
+https://i.postimg.cc/8zd2Y817/pexels-hakim-santoso-9646743.jpg
+https://i.postimg.cc/Dz29kCZB/pexels-curtis-adams-8031966.jpg
+https://i.postimg.cc/rpwqCySV/pexels-jason-boyd-3209035.jpg
+https://i.postimg.cc/7h3vrjgt/pexels-curtis-adams-5698005.jpg -->
+
+<!-- https://i.postimg.cc/8zdtM7rD/pexels-oleksandr-p-14286298.jpg
+https://i.postimg.cc/L5BWbLpr/pexels-get-lost-mike-5661024.jpg
+https://i.postimg.cc/sf90yYkL/pexels-douglas-rafael-fonseca-12870141.jpg
+https://i.postimg.cc/mgSKRXjQ/pexels-swaroop-vilas-17417644.jpg
+https://i.postimg.cc/7h3vrjgt/pexels-curtis-adams-5698005.jpg -->
+
+
+
+
+"https://i.postimg.cc/QMBjfysS/image-url-https-res-cloudinary-com-dogdjdfih-image-upload-v1685374426-tllhvfk9bpac68nqonxu.jpg",
+https://i.postimg.cc/3rCXtsxC/pexels-get-lost-mike-8561913.jpg
+https://i.postimg.cc/5tbXcMLT/pexels-jean-van-der-meulen-2416932-1.jpg
+
+
+
+<!-- food: -->
+
+https://i.postimg.cc/Wzynwz75/blog-featured-img-11.jpg
+https://i.postimg.cc/nLx1k6vf/david-ress-0-W3ox-KVx5-WY-unsplash.jpg
+https://i.postimg.cc/FFCD4CQ0/img-39-2.jpg
+https://i.postimg.cc/SNXVNLy3/img-60.jpg
+https://i.postimg.cc/VL3gSSv6/img-61.jpg
+https://i.postimg.cc/4dLbXyjX/interior-of-hotel-room-2021-04-02-21-13-32-utc-700x466.jpg
+https://i.postimg.cc/fbvfgBKt/jsb-co-w6-Pmdfh9r-Js-unsplash-700x466.jpg
+https://i.postimg.cc/P5Y41tvM/marvin-meyer-f-Bdlytm6-Hp8-unsplash-2.jpg
+https://i.postimg.cc/G2hx0G7M/zero-take-I-slv5-Sr-SYo-unsplash.jpg
